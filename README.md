@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![masterhead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+![masterhead](https://www.inzata.com/wp-content/uploads/2020/08/shutterstock_1606180258.png)
 <h1 align="center">Hi 👋, I'm Sagar baranwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
